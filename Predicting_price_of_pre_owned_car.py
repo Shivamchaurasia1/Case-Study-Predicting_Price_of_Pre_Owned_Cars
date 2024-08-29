@@ -1,11 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  4 08:35:40 2019
-
-@author: Narendra Mall
 """
 
-"""
 Solution Conceptualization:
    - Identify if data is clean
    - Look for missing values
